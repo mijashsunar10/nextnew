@@ -46,3 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # src/app
 # anythinf that is in the page.tsx will be rendered in the layout.tsc
+
+# (....) it is just used for grouping of similiar kind of pages... not anything direclty.. It is done for groupism.....
+
+# So anythign we create under app is an routable compenent ? no its not like that suppose instead of page.ts if you create register folder and maker register.tsx then it is not routable compoent......
