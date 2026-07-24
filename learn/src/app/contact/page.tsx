@@ -1,3 +1,4 @@
+"use client"
 
 const ContactPage = () => {
   return (
@@ -8,3 +9,5 @@ const ContactPage = () => {
 }
 
 export default ContactPage;
+
+
