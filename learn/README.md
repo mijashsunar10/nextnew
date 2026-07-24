@@ -52,3 +52,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # So anythign we create under app is an routable compenent ? no its not like that suppose instead of page.ts if you create register folder and maker register.tsx then it is not routable compoent......
 
 # For image we can see hompeage image ideas
+
+# If we use _(underscore) while creating a folder it will become private this will not be publcily acceisble.....
+
+# to install JSON server you can have 
+# npm install JSON server
+# npm run server
+
+
